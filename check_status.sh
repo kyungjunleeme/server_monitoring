@@ -4,6 +4,7 @@
 # Author: Kyungjunlee
 # Date: 01/06/2021
 ##
+# port 번호 8090 변경
 # from https://blog.lael.be/post/7264
 # from https://www.digitalocean.com/community/tutorials/how-to-use-discord-webhooks-to-get-notifications-for-your-website-status-on-ubuntu-18-04
 ##
